@@ -28,26 +28,6 @@
 
 </div>
 
----
-
-### 📌 Pinned Projects
-
-<div align="center">
-
-<a href="https://github.com/Shrejan/32bit-CPU">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrejan&repo=32bit-CPU&theme=radical" />
-</a>
-<a href="https://github.com/Shrejan/Ai-Answer-Evaluation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrejan&repo=Ai-Answer-Evaluation-System&theme=radical" />
-</a>
-<a href="https://github.com/Shrejan/ML-movie-recommendation-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrejan&repo=ML-movie-recommendation-api&theme=radical" />
-</a>
-<a href="https://github.com/Shrejan/Easy-Indent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrejan&repo=Easy-Indent&theme=radical" />
-</a>
-
-</div>
 
 ---
 
