@@ -47,8 +47,6 @@
 
 </div>
 
-> **Note:** the snake animation needs a one-time GitHub Actions setup in your `Shrejan/Shrejan` repo (see setup steps below) — until then this image slot will show blank.
-
 ---
 
 ### 📈 Activity Graph
