@@ -13,7 +13,7 @@
 - 🎓 Final Year **ECE** student at **Alva's Institute of Engineering & Technology**
 - 🤖 Currently learning **Deep Learning**
 - ⚡ Building AI-powered backend systems with **Python**, **FastAPI** & **Machine Learning**
-- 🎬 Currently working on an **AI Movie Recommendation API**
+- 🎬 Currently working on an **AI Besed Descriptive Answer Script Evaluation System**
 - 📍 Based in Mangalore, Karnataka, India
 - 🌐 Portfolio: [shrejan.github.io](https://shrejan.github.io)
 - 💼 LinkedIn: [in/Shrejan](https://linkedin.com/in/Shrejan)
