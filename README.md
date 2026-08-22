@@ -10,13 +10,16 @@
 
 ### 👋 About Me
 
-- 🎓 Final Year **ECE** student at **Alva's Institute of Engineering & Technology**
-- 🤖 Currently learning **Deep Learning**
-- ⚡ Building AI-powered backend systems with **Python**, **FastAPI** & **Machine Learning**
-- 🎬 Currently working on an **AI Besed Descriptive Answer Script Evaluation System**
-- 📍 Based in Mangalore, Karnataka, India
-- 🌐 Portfolio: [shrejan.github.io](https://shrejan.github.io)
-- 💼 LinkedIn: [in/Shrejan](https://linkedin.com/in/Shrejan)
+* 🎓 Final Year **ECE** student at **Alva's Institute of Engineering & Technology**
+* ⚡ Interested in **Digital Electronics, Verilog, FPGA & Hardware Design**
+* 💻 Currently preparing for **VLSI/Physical Design & RTL/Verilog** roles
+* 🧠 Exploring **AI/ML, Deep Learning & AI-powered systems**
+* 🔧 Built projects involving **32-bit CPU Design & Machine Learning**
+* 🚀 Currently working on an **AI-Based Descriptive Answer Script Evaluation System**
+* 🐍 Experienced with **Python, FastAPI, Machine Learning & Verilog**
+* 📍 Based in **Mangalore, Karnataka, India**
+* 🌐 Portfolio: [shrejan.github.io](https://shrejan.github.io)
+* 💼 LinkedIn: [in/Shrejan](https://linkedin.com/in/Shrejan)
 
 ---
 
